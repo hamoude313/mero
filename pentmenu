@@ -1255,25 +1255,14 @@ fi }
 ###############
 ##/GENERIC##
 
+echo " برجمه محمد خليل سكربت يحتوي ع هجمات ديدوس مواقع
 
 ##WELCOME##
 #########################
 ##START WELCOME MESSAGE##
 #everything before this is a function and functions have to be defined before they can be used
 #so the welcome message MUST be placed at the end of the script
-	clear && echo ""
-echo " ________ _______  _       _________ _______  ________  _                "
-echo " برمجه محمد خليل 
-
-echo " هاذ سكربت مختص هجمات ديدوس تم الصناع من اسياداكم 
-
-echo " حسابي على انستقرام @bz7ii مو طيروني اححححح
-
-echo " راجعو بعوان الله كلمن يضم راسه تم بلشنه تابع 
-
-echo " i'm back sykoo
-
-echo ""
+	clear &&
 echo "Welcome to pentmenu!"
 echo "Please report all bugs, improvements and suggestions to https://github.com/GinjaChris/pentmenu/issues"
 echo "This software is only for responsible, authorised use."
